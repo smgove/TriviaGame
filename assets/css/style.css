@@ -17,7 +17,7 @@ h1 {
 .wrapper {
     margin: 10px auto;
     background-color: rgba(255, 255, 255, 0.7);
-    border: 2px solid #403fd3;
+    border: 2px solid red;
     height: 500px;
     width: 60%;
     text-align: center;
@@ -26,4 +26,57 @@ h1 {
   .btn {
     position: relative;
     bottom: -150px;
+    background-image: url("../images/blankTicket75_149.png");
+    height: 75px;
+    width: 149px;
+    color: black;
+    font-weight: bolder;
+    
   }
+
+  #reset {
+    visibility: visible;
+  }
+  
+
+  .answerchoice {
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 40%;
+    color: black;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    background-color: white;
+    }
+    
+
+  img {
+    max-height: 250px;
+    width: auto;
+  }
+
+  #questionblock {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Merienda', cursive;
+  }
+
+  #answerblock {
+    text-align: center;
+    font-family: 'Merienda', cursive;
+  
+  }
+ 
+  p {
+    margin: 10px;
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+  }
+  
+  h2, h4 {
+    margin: 30px;
+    font-weight: bold;
+  }
+  
