@@ -61,7 +61,7 @@ $(document).ready(function () {
             question: "Why didn’t Yoda train Luke Skywalker?",
             choice: ["Yoda sensed the Darkside", "Yoda was too old", "Luke's father was Vader", "Luke lacked patience"],
             answer: 3,
-            photo: "assets/images/yoda.gif"
+            photo: "assets/images/Yoda.gif"
         }];
 
     //Global variables
